@@ -1,0 +1,11 @@
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine.deps.json
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine.runtimeconfig.json
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine.runtimeconfig.dev.json
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine.dll
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/bin/Debug/netcoreapp3.1/VendingMachine.pdb
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.csprojAssemblyReference.cache
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.AssemblyInfoInputs.cache
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.AssemblyInfo.cs
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.dll
+/Users/danthor/yrgo/C-Sharp/VendingMachine/VendingMachine/obj/Debug/netcoreapp3.1/VendingMachine.pdb
