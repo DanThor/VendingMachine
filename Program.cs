@@ -50,7 +50,7 @@ namespace VendingMachine
                         case "3":
                             try
                             {
-                                Console.WriteLine("How much would you like to withdraw?");
+                                Console.WriteLine("How much would you like to withdraw to your creditcard?");
                                 int.TryParse(Console.ReadLine(), out var withdrawAmount);
                                 Bank.Withdraw(withdrawAmount, user);
                                 Menu.DisplayMenu();
